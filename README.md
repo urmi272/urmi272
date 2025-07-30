@@ -34,7 +34,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" alt="Instagram"/>
   </a>
   &nbsp;
-  <a href="https://leetcode.com/fs7bq7cy9s" target="_blank">
+  <a href="https://leetcode.com/urmi_272" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" height="40" alt="LeetCode"/>
   </a>
   &nbsp;
@@ -64,15 +64,28 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=urmi272&show_icons=true&theme=radical" alt="stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=urmi272&layout=compact&theme=radical" alt="languages" />
-</p>
-
-<p align="center">
+<p align = "center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=urmi272&theme=radical&hide_border=false" alt="urmi272's GitHub streak" />
 </p>
+<table align = "center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=urmi272&show_icons=true&theme=radical" alt="stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=urmi272&layout=compact&theme=radical" alt="languages" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Leetcode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/urmi_272?theme=dark&ext=heatmap" alt="LeetCode Heatmap" />
+</p>
+
 ---
 
 ### 🎯 Goals for 2025
@@ -87,4 +100,6 @@
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 ---
+
+
 
