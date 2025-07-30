@@ -23,16 +23,35 @@
 
 ---
 
-### 🌐 Connect with me:
+<h3 align="center">✨ Connect with me on your favorite platform ✨</h3>
 
-<p align="left">
-  <a href="https://linkedin.com/in/urmi-barman" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30" /></a>
-  <a href="https://instagram.com/urmi_272" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="30" /></a>
-  <a href="https://www.leetcode.com/fs7bq7cy9s" target="blank"><img align="center" src="https://skillicons.dev/icons?i=leetcode" alt="leetcode" height="30" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/urmibarlw89" target="blank"><img align="center" src="https://skillicons.dev/icons?i=code" alt="geeksforgeeks" height="30" /></a>
-  <a href="https://www.codechef.com/users/urmi_272" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="30"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/urmi-barman" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/urmi_272" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/fs7bq7cy9s" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" height="40" alt="LeetCode"/>
+  </a>
+  &nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/urmibarlw89" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40" height="40" alt="GeeksforGeeks"/>
+  </a>
+  &nbsp;
+  <a href="mailto:urmibarman272@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://www.codechef.com/users/urmi_272" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="40" height="40" alt="CodeChef"/>
+  </a>
 </p>
 
+  
 ---
 
 ### 🛠️ Languages and Tools:
