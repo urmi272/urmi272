@@ -46,15 +46,15 @@
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Gmail"/>
   </a>
   &nbsp;
-  <a href="https://www.codechef.com/users/urmi_272" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="40" height="40" alt="CodeChef"/>
+  <a href="https://codeforces.com/profile/urmibarman" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png" width="40" height="40" alt="Codeforces"/>
   </a>
 </p>
 
   
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Tech Stack:
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,nodejs,react,django,mysql,git,aws,tensorflow,opencv,matlab,pandas" />
