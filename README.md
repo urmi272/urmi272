@@ -80,6 +80,15 @@
 
 ---
 
+### 📊 Codeforces Stats
+
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=urmibarman&theme=dark" alt="Codeforces Stats" />
+  <br/>
+</p>
+
+---
+
 ### 📊 Leetcode Stats
 
 <p align="center">
