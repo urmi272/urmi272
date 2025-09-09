@@ -67,16 +67,6 @@
 <p align = "center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=urmi272&theme=radical&hide_border=false" alt="urmi272's GitHub streak" />
 </p>
-<table align = "center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=urmi272&show_icons=true&theme=radical" alt="stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=urmi272&layout=compact&theme=radical" alt="languages" />
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -84,7 +74,6 @@
 
 <p align="center">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=urmibarman&theme=dark" alt="Codeforces Stats" />
-  <br/>
 </p>
 
 ---
@@ -102,7 +91,6 @@
 - ✅ Build real-world AI & ML projects
 - ✅ Contribute to Open Source
 - ✅ Intern with top tech firms
-- ✅ Travel solo for a tech conference 🌍
 
 ---
 
