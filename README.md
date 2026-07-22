@@ -1,102 +1,99 @@
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Single&size=25&pause=1000&color=F754ED&background=FFFFFF00&width=585&height=55&lines=Hii%F0%9F%91%8B%2C+I'm+Urmi+Barman+%3A);A+passionate+Developer+from+India%F0%9F%9A%80" alt="Typing SVG" /></a>
-</p>
+
+<h1 align="center">
+  Hi there 👋, I'm Urmi Barman
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=urmi272&label=Profile%20views&color=0e75b6&style=flat" alt="urmi272" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1200&color=BB86FC&center=true&vCenter=true&width=850&lines=Building+Full-Stack+%26+ML+Applications;Learning+Data+Structures+%26+System+Design;Always+Curious.+Always+Improving." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=urmi272&theme=dracula" alt="Trophies" />
-  </a>
+<i>"Computer Science Undergraduate • AI & ML • Full-Stack Development"</i>
 </p>
 
----
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on **[Data Structures & Algorithms](https://github.com/urmi272/Codes)**
-- 🌱 I’m learning **AWS, System Design, and Machine Learning**
-- 💬 Ask me about **Python, C++, Web Dev, or Debugging nightmares**
-- 📫 Reach me at: **urmibarman272@gmail.com**
+🎓 B.Tech Computer Science (AI & ML) @ VIT Bhopal
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=200&size=16&pause=1000&color=FFFFFF&background=FFFFFF00&width=540&height=55&lines=%E2%9A%A1Fun+fact%3A+Ctrl+%2B+Z+is+my+most+trusted+life+decision." alt="Typing SVG" /></a>
+💻 Building AI-powered and full-stack applications
 
----
+📚 Currently focused on DSA, Backend Development, and System Design
 
-<h3 align="center">✨ Connect with me on your favorite platform ✨</h3>
+🚀 Seeking Software Development Engineer opportunities
+
+📫 urmibarman272@gmail.com
+
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/urmi-barman" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/urmi_272" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" alt="Instagram"/>
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/urmi_272" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" height="40" alt="LeetCode"/>
-  </a>
-  &nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/urmibarlw89" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40" height="40" alt="GeeksforGeeks"/>
-  </a>
-  &nbsp;
-  <a href="mailto:urmibarman272@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Gmail"/>
-  </a>
-  &nbsp;
-  <a href="https://codeforces.com/profile/urmibarman" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png" width="40" height="40" alt="Codeforces"/>
-  </a>
+<a href="https://www.linkedin.com/in/urmi-barman">
+<img src="https://skillicons.dev/icons?i=linkedin" height="38"/>
+</a>
+
+<a href="mailto:urmibarman272@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="38"/>
+</a>
+
+<a href="https://github.com/urmi272">
+<img src="https://skillicons.dev/icons?i=github" height="38"/>
+</a>
+
+<a href="https://leetcode.com/urmi_272">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="38"/>
+</a>
+
+<a href="https://codeforces.com/profile/urmibarman">
+<img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="38"/>
+</a>
+
+<a href="https://instagram.com/urmi_272">
+<img src="https://skillicons.dev/icons?i=instagram" height="38"/>
+</a>
 </p>
 
-  
----
+## 🛠️ Tech Stack
 
-### 🛠️ Tech Stack:
+<div align="center">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,nodejs,react,django,mysql,git,aws,tensorflow,opencv,matlab,pandas" />
+### Languages
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css&perline=7" height="42"/>
+
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=nodejs,react,firebase&perline=6" height="42"/>
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="28"/>
 </p>
 
----
+### Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=4" height="42"/>
 
-### 📊 GitHub Stats
+### Cloud & Tools
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,postman&perline=5" height="42"/>
 
-<p align = "center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=urmi272&theme=radical&hide_border=false" alt="urmi272's GitHub streak" />
-</p>
+</div>
 
----
-
-### 📊 Codeforces Stats
+## 🏆 Competitive Programming
 
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=urmibarman&theme=dark" alt="Codeforces Stats" />
+<img src="https://leetcard.jacoblin.cool/urmi_272?theme=dark&ext=heatmap"/>
 </p>
-
----
-
-### 📊 Leetcode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/urmi_272?theme=dark&ext=heatmap" alt="LeetCode Heatmap" />
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=urmibarman&theme=dark"/>
 </p>
 
----
+## 🎯 2026 Goals
 
-### 🎯 Goals for 2025
-
-- ✅ Build real-world AI & ML projects
-- ✅ Contribute to Open Source
-- ✅ Intern with top tech firms
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+- Master Data Structures & Algorithms
+- Build impactful software projects
+- Contribute to Open Source
+- Secure a Software Engineering role
 
 ---
 
-
-
+> **"The best way to predict the future is to build it."**
